@@ -6,6 +6,7 @@ The ls command along with its -l (for long listing) option will show you metadat
  Shows the permissions on a given file</h2>
 	<h2>“chmod 660 test.txt”</h2> 
  Chmod changes the file permissions for the text.txt file</h2>
+ <p style="margin-left: 15px;">test</p>
 		<p>First 6 - gives read & write permissions to the Owner</p>
 		<p>Second 6 - does the same, but for the Group</p>
 		<p>The 0 - gives no permissions to everyone else</p>
