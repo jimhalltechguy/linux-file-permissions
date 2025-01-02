@@ -10,8 +10,8 @@ The ls command along with its -l (for long listing) option will show you metadat
 		<p><b>Second "6"</b> - does the same, but for the Group</p>
 		<p><b>The "0"</b> - gives no permissions to everyone else</p>
 	<h2>“chown root test.txt”</h2>
- 	This would change the owner of the test.txt file to root</h2>
-		NOTE - would have to use “sudo” at the beginning to make this change
+ 	This would change the owner of the test.txt file to root. </h2>
+		<b>NOTE</b> - would have to use “sudo” at the beginning to make this change
 	<h2>“sudo chgrp root text.txt”</h2>
  	Would change the owner of this file to root; would take away 
 the ability to read the file from the Everyone group</h2>
