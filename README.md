@@ -2,7 +2,7 @@
 File permissions are core to the security model used by Linux systems. They determine who can access files and directories on a system and how</b>.<br/>
 <h1>How do you view Linux file permissions?</h1>
 The ls command along with its -l (for long listing) option will show you metadata about your Linux files, including the permissions set on the file</b>.<br/>
-	<h2>“ls -l “</h2> (that is the letter “L”) 
+	<h2>“ls -l “</h2> (FYI - that is the letter “L”) 
  Shows the permissions on a given file</h2>
 	<h2>“chmod 660 test.txt”</h2> 
  Chmod changes the file permissions for the text.txt file</h2>
