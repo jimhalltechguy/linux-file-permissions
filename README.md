@@ -1,5 +1,5 @@
 <h1>Linux File Permissions</h1>
-File permissions are core to the security model used by Linux systems. They determine who can access files and directories on a system and how</b>.<br/>
+File permissions are a core in the security model used by Linux systems. They determine who can access files and directories on a system and how</b>.<br/>
 <h1>How do you view Linux file permissions?</h1>
 The ls command along with its -l (for long listing) option will show you metadata about your Linux files, including the permissions set on the file</b>.<br/>
 	<h2>“ls -l “</h2> (FYI - that is the letter “L”) 
